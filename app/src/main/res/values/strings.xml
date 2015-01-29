@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScoreReporter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="options_array">
+        <item>"Favorites"</item>
+        <item>"Teams"</item>
+        <item>"Tournaments"</item>
+        <item>"Rankings"</item>
+        <item>"Report a Bug"</item>
+        <item>"About"</item>
+    </string-array>
+
+    <string name="title_activity_drawer_list_item">DrawerListItem</string>
+    <string name="roster">Roster\n #  Name</string>
+
+</resources>
